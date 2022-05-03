@@ -27,7 +27,7 @@ export default function AllAuthors(){
             <Navbar/>
             <br></br><br></br>
               
-                    <div className="card container" style={{background:"#bfbfbf"}}>&nbsp;&nbsp;&nbsp;  
+                    <div className="card container" style={{background:"#ffffcc"}}>&nbsp;&nbsp;&nbsp;  
                         <center><h5 class="text-black">AUTHOR DETAILS</h5></center>&nbsp;&nbsp;&nbsp;  
                             <div className="card container d-flex justify-content-center" style={{background:"#fff"}}>
                                 <table className="table table-sm ">

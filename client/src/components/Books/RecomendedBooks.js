@@ -52,7 +52,7 @@ export default function RecomendedBooks() {
         <> 
        <Navbar/>
             <br></br><br></br>
-                    <div className="card container" style={{background:"#bfbfbf"}}>&nbsp;&nbsp;&nbsp;  
+                    <div className="card container" style={{background:"#ffffcc"}}>&nbsp;&nbsp;&nbsp;  
                         <center><h5 class="text-black">RECOMMENDED BOOKS </h5></center>&nbsp;&nbsp;&nbsp; 
 
                         <div>
@@ -95,7 +95,7 @@ export default function RecomendedBooks() {
                                     })}
                                 </tbody>
                             </table>
-                        </div><br />
+                        </div>&nbsp;&nbsp;&nbsp; 
             </div>
         <div className='footer5'>
     <Footer/>

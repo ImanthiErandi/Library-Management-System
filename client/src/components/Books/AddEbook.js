@@ -70,7 +70,7 @@ const AddEBooks = () => {
       <div className='container-height'>
          <div className='col-lg-8 col-md m-auto'>
             <div className='container'>
-                <form className ="form-control" style={{background:"#bfbfbf"}} onSubmit={handleSubmit} encType='multipart/form-data' >
+                <form className ="form-control" style={{background:"#ffffcc"}} onSubmit={handleSubmit} encType='multipart/form-data' >
                     <div className='modal-body'>
                          <h1 className='text-center'>Add E-Books</h1>
                          <br/>

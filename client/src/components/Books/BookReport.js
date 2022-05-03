@@ -71,7 +71,7 @@ export default function BookReport() {
                     <div className='col-lg-8 col-md m-auto'>
                         <div className='container'>
                             <div className="row g-3"> 
-                                <div style={{background:"#bfbfbf"}}>&nbsp;&nbsp;&nbsp; 
+                                <div style={{background:"#ffffcc"}}>&nbsp;&nbsp;&nbsp; 
                         
                                     <h1 className="text-black h1"> Book Detail Report </h1><br/>
                                 

@@ -45,7 +45,7 @@ export default function SearchAuthors() {
             <div className='col-lg-8 col-md m-auto'>
                 <div className='container'>
                         <div className="row g-3"> 
-                        <div className="card container" style={{background:"#bfbfbf"}}>&nbsp;&nbsp;&nbsp; 
+                        <div className="card container" style={{background:"#ffffcc"}}>&nbsp;&nbsp;&nbsp; 
                        
                             <h1 className="text-black h1"> Author Details </h1>
                                

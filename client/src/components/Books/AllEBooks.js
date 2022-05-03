@@ -73,7 +73,7 @@ deleteEbook(PublishDate) {
       <>
         <Navbar/>
                 {/* Display data from API */}
-                <h1>View E-Books</h1>
+                <h2 style={{ color: "black" }} >View E-Books</h2>
                 <div style={{marginLeft: "200px" }}>
                     {this.state.filteredData.length === 0 ? (<div className="alert alert-danger" style={{ marginLeft: "300px", width: "20%"}}>
                         <center>Data is not found<br /><br /></center> <br />
@@ -88,10 +88,10 @@ deleteEbook(PublishDate) {
                                             </div>
 
                                                 <p><b style={{ color: "blue" }}>{i.Title}</b></p>
-                                                <p><b>Author: </b>{i.NameAuth}</p>
-                                                <p><b>Published Year: </b>{i.PublicationYear}</p>
-                                                <p><b>Category: </b>{i.Category}</p>
-                                                <p><b style={{ color: "blue" }}>{i.PublishDate}</b></p>
+                                                <p style={{ color: "black" }}><b style={{ color: "black" }}>Author: </b>{i.NameAuth}</p>
+                                                <p style={{ color: "black" }}><b style={{ color: "black" }}>Published Year: </b>{i.PublicationYear}</p>
+                                                <p style={{ color: "black" }}><b style={{ color: "black" }}>Category: </b>{i.Category}</p>
+                                                <p style={{ color: "blue" }}><b style={{ color: "black" }}>Upload: </b>{i.PublishDate}</p>
                                         </div>
 
                                         <button className="btn btn-danger" onClick={() => this.deleteEbook(i.PublishDate)}>Delete</button>

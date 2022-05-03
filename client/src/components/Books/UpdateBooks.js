@@ -79,7 +79,7 @@ export default function  UpdateBooks() {
                          <div className='col-lg-8 col-md m-auto'>
                              <div className='container'>
                             
-                             <form className ="form-control" style={{background:"#bfbfbf"}}>
+                             <form className ="form-control" style={{background:"#ffffcc"}}>
                              <h1 className='text-center h1'>Update Book Details</h1> 
                                 <div className='modal-body'>
                                     <div class="row g-3">

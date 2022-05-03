@@ -83,7 +83,7 @@ export default function  UpdateAuthors() {
                          <div className='col-lg-8 col-md m-auto'>
                              <div className='container'>
                             
-                             <form  style={{background:"#bfbfbf"}} className ="form-control">
+                             <form  style={{background:"#ffffcc"}} className ="form-control">
                              <h1 className='text-center h1'>Update Author Details</h1> 
                                 <div className='modal-body'>
                                     <div className="row g-3">
