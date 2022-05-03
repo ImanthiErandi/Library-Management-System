@@ -1,0 +1,107 @@
+.pg {
+    background-image: url("/src/home2.png");
+    height: 739px;
+    width: 100%;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background-color: #ffffcc;
+}
+
+.box1 {
+    background-image: url('../src/Logo.png');
+    background-color: rgb(238, 231, 238);
+    width: 10%;
+    height: 60pt;
+    position: relative;
+    background-repeat: no-repeat;
+    left: 20%;
+    top: 20px;
+}
+
+.box2 {
+    width: 50%;
+    height: 20pt;
+    position: relative;
+    left: 40%;
+    margin-left: -150px;
+    padding-top: 50px;
+}
+
+.button {
+    background-color: #fff;
+    left: 43%;
+    top: 15px;
+}
+
+.button {
+    background-color: #dbdae0ea;
+    border: 2px solid rgb(11, 9, 9);
+    color: rgb(15, 11, 11);
+    padding: 20px;
+    padding-left: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    width: 360px;
+    height: 150px;
+    margin: 10px;
+    transition-duration: 0.8s;
+    width: 300px;
+    height: 100px;
+    margin: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -10px;
+    transition: 0.5s;
+}
+
+.button:hover span {
+    padding-right: 20px;
+}
+
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+.image1 {
+    padding-right: 900px;
+}
+
+.image2 {
+    padding-right: 90%;
+}
+
+.image2 {
+    padding-top: 10%;
+}
+
+.button2 {
+    padding: 20px;
+    padding-left: 900px;
+    font-size: 20px;
+    margin: 2px;
+}
+
+.button3 {
+    padding-left: 300px;
+}

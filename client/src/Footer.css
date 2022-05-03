@@ -1,0 +1,172 @@
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css');
+.footer1 {
+    height: 80px;
+    padding: 10px;
+    margin-top: 100px;
+    border: 2px solid #000000;
+    background-color: #f3f3f3;
+    color: black;
+    width: 100%;
+}
+
+.footer2 {
+    height: 80px;
+    padding: 10px;
+    margin-top: 25px;
+    border: 2px solid #000000;
+    background-color: #f3f3f3;
+    color: black;
+    width: 100%;
+}
+
+.footer3 {
+    height: 80px;
+    padding: 10px;
+    margin-top: -45px;
+    border: 2px solid #000000;
+    background-color: #f3f3f3;
+    color: black;
+    width: 100%;
+}
+
+.footer4 {
+    height: 80px;
+    padding: 10px;
+    margin-top: 30px;
+    border: 2px solid #000000;
+    background-color: #f3f3f3;
+    color: black;
+    width: 100%;
+}
+
+.footer5 {
+    height: 80px;
+    padding: 10px;
+    margin-top: 120px;
+    border: 2px solid #000000;
+    background-color: #f3f3f3;
+    color: black;
+    width: 100%;
+}
+
+.footer6 {
+    height: 80px;
+    padding: 10px;
+    margin-top: 150px;
+    border: 2px solid #000000;
+    background-color: #f3f3f3;
+    color: black;
+    width: 100%;
+}
+
+.footer7 {
+    height: 80px;
+    padding: 10px;
+    margin-top: -10px;
+    border: 2px solid #000000;
+    background-color: #f3f3f3;
+    color: black;
+    width: 100%;
+}
+
+.footer8 {
+    height: 80px;
+    padding: 10px;
+    margin-top: -10px;
+    border: 2px solid #000000;
+    background-color: #f3f3f3;
+    color: black;
+    width: 100%;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 20px;
+    width: 50px;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #000000;
+    color: white;
+}
+
+.fa-twitter {
+    background: #000000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #000000;
+    color: white;
+}
+
+.fa-youtube {
+    background: #000000;
+    color: white;
+}
+
+.sbuttons {
+    position: absolute;
+    top: 690px;
+    right: 7%;
+    text-align: right;
+}
+
+.p {
+    position: absolute;
+    top: 695px;
+    width: 90%;
+    right: 3%;
+    text-align: left;
+}
+
+.sbuttons2 {
+    position: absolute;
+    top: 710px;
+    right: 7%;
+    text-align: right;
+}
+
+.p2 {
+    position: absolute;
+    top: 720px;
+    width: 90%;
+    right: 3%;
+    text-align: left;
+}
+
+.sbuttons3 {
+    position: absolute;
+    top: 780px;
+    right: 7%;
+    text-align: right;
+}
+
+.p3 {
+    position: absolute;
+    top: 800px;
+    width: 90%;
+    right: 3%;
+    text-align: left;
+}
+
+.sbuttons4 {
+    position: absolute;
+    top: 760px;
+    right: 7%;
+    text-align: right;
+}
+
+.p4 {
+    position: absolute;
+    top: 780px;
+    width: 90%;
+    right: 3%;
+    text-align: left;
+}

@@ -1,0 +1,55 @@
+div.view {
+    position: relative;
+    bottom: 8px;
+    left: 50px;
+    width: 1200px;
+}
+
+div.addbookform {
+    width: 1250px;
+    position: relative;
+    bottom: 710px;
+    left: 260px;
+}
+
+h1 {
+    position: relative;
+    top: 10px;
+}
+
+div.addauthorform {
+    width: 1250px;
+    position: relative;
+    bottom: 710px;
+    left: 260px;
+}
+
+.booksearch {
+    position: relative;
+    top: 54px;
+    left: 180px;
+    width: 260px;
+}
+
+.booksearchlable {
+    position: relative;
+    top: 100px;
+    left: 750px;
+}
+
+.booksearch1 {
+    position: relative;
+    top: 54px;
+    left: 150px;
+    width: 260px;
+}
+
+.booksearchlable2 {
+    position: relative;
+    top: 100px;
+    left: 730px;
+}
+
+.h1 {
+    font-size: 30px;
+}

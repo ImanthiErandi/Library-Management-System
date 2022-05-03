@@ -1,0 +1,111 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg0 {
+    background-image: url('/src/home.png');
+    /* Full height */
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 739px;
+}
+
+.box1 {
+    background-color: rgb(233, 240, 230);
+    background-image: url('/src/Logo.png');
+    width: 60%;
+    height: 80pt;
+    position: relative;
+    background-repeat: no-repeat;
+    left: 20%;
+    top: -15px;
+}
+
+.form-control,
+.btn {
+    min-height: 38px;
+    border-radius: 2px;
+}
+
+.btn {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+body {
+    background: #fff;
+    background: #f6eded;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form-control {
+    font-size: 15px;
+}
+
+.form-control,
+.form-control:focus,
+.input-group-text {
+    border-color: #722727;
+}
+
+.form-control,
+.btn {
+    border-radius: 3px;
+}
+
+.background {
+    width: 420px;
+    height: 100px;
+    margin: 0 auto;
+    padding: 50px 0px;
+    background-color: transparent;
+}
+
+.background form {
+    color: rgb(14, 12, 12);
+    border-radius: 3px;
+    margin-top: 90px;
+    margin-bottom: 15px;
+    background: rgba(240, 242, 233, 0.601);
+    padding: 30px;
+}
+
+.background h2 {
+    color: #333;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.background hr {
+    margin: 0 -30px 20px;
+}
+
+.background label {
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.signup-form .form-control {
+    min-height: 38px;
+    box-shadow: none !important;
+}
+
+.signup-form .input-group-addon {
+    max-width: 42px;
+    text-align: center;
+}
+
+.signup-form a {
+    color: rgb(42, 176, 104);
+    text-decoration: underline;
+}
+
+.image2 {
+    margin-top: -40px;
+    margin-left: 80px;
+}
